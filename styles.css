@@ -32,6 +32,11 @@ section{
     flex-direction: column;
 }
 
+.flex-column > p{
+    display:flex;
+    flex-direction: column;
+}
+
 .center-vertical{
     justify-content: center;
 }
