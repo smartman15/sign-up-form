@@ -33,7 +33,12 @@ section{
     flex-direction: column;
 }
 
-.flex-column > p{
+.form-column{
+    display:flex;
+    flex-direction: column;
+}
+
+.form-column > p{
     display:flex;
     flex-direction: column;
     margin-bottom: 15px;
