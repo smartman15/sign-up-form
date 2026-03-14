@@ -2,10 +2,31 @@
     font-family: "Gloria Hallelujah", cursive;
     font-weight: 400;
     font-style: normal;
-  }
-  
+}
 
-.test{
-    background-color: pink;
+body {
+    margin: 0;
     font-family: "Gloria Hallelujah", cursive;
+    background-color: rgba(167, 233, 218, 0.656);
+}
+
+form{
+    background-color:azure;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.center-vertical{
+    justify-content: center;
+}
+
+
+img {
+    width: 45%;
 }
