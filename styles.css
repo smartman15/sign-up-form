@@ -30,6 +30,16 @@ section{
 h2{
     margin-bottom: 15px;
 }
+button[type="submit"]{
+    width: 200px;
+    height: 35px;
+    background-color: rgb(26, 111, 26);
+    font-weight: bold;
+    font-size: 1.1rem;
+    border-style: none;
+    color: white;
+    border-radius: 5px;
+}
 
 .flex-container {
     display: flex;
