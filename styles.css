@@ -17,6 +17,7 @@ body {
 
 form{
     background-color:azure;
+    width: 100%;
 }
 
 section{
@@ -35,6 +36,7 @@ section{
 .flex-column > p{
     display:flex;
     flex-direction: column;
+    margin-bottom: 15px;
 }
 
 .center-vertical{
