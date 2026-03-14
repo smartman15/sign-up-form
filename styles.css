@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .gloria-hallelujah-regular {
     font-family: "Gloria Hallelujah", cursive;
     font-weight: 400;
@@ -5,13 +10,17 @@
 }
 
 body {
-    margin: 0;
     font-family: "Gloria Hallelujah", cursive;
     background-color: rgba(167, 233, 218, 0.656);
 }
 
 form{
     background-color:azure;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
 }
 
 .flex-container {
