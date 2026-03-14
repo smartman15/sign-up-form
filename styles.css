@@ -3,14 +3,15 @@
     padding: 0;
 }
 
-.gloria-hallelujah-regular {
-    font-family: "Gloria Hallelujah", cursive;
+.chelsea-market-regular {
+    font-family: "Chelsea Market", system-ui;
     font-weight: 400;
     font-style: normal;
-}
+  }
+  
 
 body {
-    font-family: "Gloria Hallelujah", cursive;
+    font-family: "Chelsea Market", system-ui;
     background-color: rgba(167, 233, 218, 0.656);
 }
 
