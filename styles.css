@@ -63,6 +63,10 @@ form#form1{
     flex-direction: column;
 }
 
+.odin{
+    position:absolute;
+}
+
 .form-column{
     display:flex;
     flex-direction: column;
@@ -80,7 +84,7 @@ form#form1{
 .form-column input[type="email"]:invalid,
 .form-column input[type="password"]:invalid,
 .form-column input[type="tel"]:invalid{
-    border: 1px solid #ba4343;
+    border: 1px solid #db2626;
 }
 
 .form-column > p{
