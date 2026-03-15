@@ -31,6 +31,10 @@ section{
     flex-direction: row;
 }
 
+h1{
+    margin-left: 35px;
+}
+
 h2{
     margin-bottom: 15px;
 }
