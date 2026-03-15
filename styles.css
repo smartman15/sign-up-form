@@ -70,6 +70,14 @@ form#form1 {
 
 .odin {
     position: absolute;
+    background-color: rgba(110, 109, 109, 0.281);
+    color: white;
+    width:100%;
+    top: 284px;
+}
+
+.odin-logo{
+    width: 50%;
 }
 
 .form-column {
