@@ -47,6 +47,10 @@ button[type="submit"]{
     margin-bottom: 15px;
 }
 
+form#form1{
+    margin: 60px 0 35px 0;
+}
+
 .flex-container {
     display: flex;
 }
