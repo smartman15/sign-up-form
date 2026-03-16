@@ -125,3 +125,7 @@ form#form1 {
 .create-account {
     margin: 0 0 0 35px;
 }
+
+.odin > span{
+    font-size: 5rem;
+}
