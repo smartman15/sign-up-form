@@ -118,6 +118,10 @@ form#form1 {
     justify-content: center;
 }
 
+.align-center{
+    align-items: center;
+}
+
 .create-account {
     margin: 0 0 0 35px;
 }
